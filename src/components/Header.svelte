@@ -3,7 +3,7 @@
 </script>
 
 <div>
-    <span><button>Contact me | contattami | contactez moi | اتصل بي</button></span>
+    <span><a href="mailto:camilla.cederna@univ-lille.fr"><button>Contact me | contattami | contactez moi | اتصل بي</button></a></span>
 </div>
 
 <style>
