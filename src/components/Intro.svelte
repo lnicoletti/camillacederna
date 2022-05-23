@@ -67,7 +67,8 @@
 	}
 
 	#intro {
-		max-width: 50vw;
+		width: 50vw;
+		max-width: 500px;
 		margin: auto;
 		text-align: center;
 	}

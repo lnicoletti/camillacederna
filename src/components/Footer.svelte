@@ -9,7 +9,8 @@
 </section>
 <style>
     section {
-    max-width: 70vw;
+    width: 70vw;
+	max-width: 600px;
     margin: auto;
     text-align: center;
 }
