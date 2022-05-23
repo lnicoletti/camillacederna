@@ -13,6 +13,7 @@
 	max-width: 600px;
     margin: auto;
     text-align: center;
+    height:30px;
 }
 
     div {
