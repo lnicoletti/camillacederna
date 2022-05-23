@@ -46,6 +46,7 @@ h1 {
 @media (max-width: 640px) {
     section {
         max-width: none;
+        width:90vw
     }
 }
 </style>

@@ -20,4 +20,11 @@
         text-align: left;
         margin:auto
     }
+
+    @media (max-width: 640px) {
+        section {
+            max-width: none;
+            width:90vw
+        }
+    }
 </style>
